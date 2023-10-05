@@ -1,7 +1,7 @@
 <h1>Lastminuteresy-web</h1>
 
 <p>
-Website for lastminute-resy
+Website content for lastminute-resy
 </p>
 
 <br>
