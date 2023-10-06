@@ -1,0 +1,17 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 2%;
+}
+
+.square {
+    aspect-ratio: 1/ 1;
+    display: flex;
+    align-items: center;
+    padding: 5%;
+    color: #fff;
+    height: 50px;
+    width: 50px;
+    outline: 5px solid black;
+    background-color: red;
+}
