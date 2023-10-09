@@ -1,7 +1,7 @@
 <h1>Lastminuteresy-web</h1>
 
 <p>
-Website content for lastminute-resy
+Website frontend/client side for lastminute-resy
 </p>
 
 <br>
